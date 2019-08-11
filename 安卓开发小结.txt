@@ -1,0 +1,65 @@
+开发安卓应用主要用到的组件：
+
+视图类：
+Activity 、 Fragment 、 各类控件：Button、ImageView、EditText、TextView、DialogFragment、工具栏menu、
+
+布局：
+FrameLayout、ConstraintLayout、RecyclerView （ViewAdapter、ViewHolder）、
+
+数据相关：
+SQLite数据库、文件、SharedPreference、
+
+多线程：
+AsyncTask 、 HandlerThread 、 Thread （java层）、
+
+自启动相关：
+服务 IntentService 、 broadcast intent （设备重启后自动启动）
+
+网络：
+HttpURLConnection（java层）、 OkHttp 、 
+
+
+设计模式： MVC - 》 Module View Controler 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
